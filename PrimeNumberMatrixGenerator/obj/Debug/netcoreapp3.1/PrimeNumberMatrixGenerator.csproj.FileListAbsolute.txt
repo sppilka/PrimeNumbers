@@ -1,0 +1,13 @@
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\bin\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.exe
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\bin\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.deps.json
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\bin\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.runtimeconfig.json
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\bin\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.runtimeconfig.dev.json
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\bin\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.dll
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\bin\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.pdb
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\obj\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.csprojAssemblyReference.cache
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\obj\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.AssemblyInfoInputs.cache
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\obj\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.AssemblyInfo.cs
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\obj\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.csproj.CoreCompileInputs.cache
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\obj\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.dll
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\obj\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.pdb
+C:\Projects\P-Projects\PrimeNumbers\PrimeNumberMatrixGenerator\obj\Debug\netcoreapp3.1\PrimeNumberMatrixGenerator.genruntimeconfig.cache
